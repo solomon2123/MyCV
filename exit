@@ -1,0 +1,47 @@
+[33mcommit 02c469208a211977d4734832074a7c17ad308a10[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: solomon2123 <solomonkassahun121619@gmail.com>
+Date:   Sun Mar 8 16:25:41 2020 +0300
+
+    additional info about me is added in the home page
+
+[33mcommit 5b4cde5b9a0fe461a1dcc615228efe861d7414c1[m
+Author: solomon2123 <solomonkassahun121619@gmail.com>
+Date:   Sun Mar 8 10:31:08 2020 +0300
+
+    make a comment to be post in the Home page
+
+[33mcommit 31dfcf3a3970573daefe355005ce35e078d9f413[m
+Author: solomon2123 <solomonkassahun121619@gmail.com>
+Date:   Sun Mar 8 09:55:14 2020 +0300
+
+     addition of pages called sign in in order to log in
+
+[33mcommit 8583765fdf0d915eda4093554713f2065881a7e6[m
+Author: solomon2123 <solomonkassahun121619@gmail.com>
+Date:   Sun Mar 8 00:35:37 2020 +0300
+
+     icon of every page is changed
+
+[33mcommit 5eac8cbccd05f8e30ccdd416a542442fa3e30016[m
+Author: solomon2123 <solomonkassahun121619@gmail.com>
+Date:   Sat Mar 7 22:52:38 2020 +0300
+
+     embed map and make map side by side with input html element
+
+[33mcommit ef8be5a5ab0549651ae0f497bcea8525aafe4e09[m
+Author: solomon2123 <solomonkassahun121619@gmail.com>
+Date:   Sat Mar 7 21:22:52 2020 +0300
+
+     update html input element and make button listen the action
+
+[33mcommit 9f8f21521c819d49efe802a051819de0e93acb79[m
+Author: solomon2123 <solomonkassahun121619@gmail.com>
+Date:   Sat Mar 7 18:43:16 2020 +0300
+
+     add more html5 elements
+
+[33mcommit 082fb03d61e7c1a5b2275a0324dba6efffb4bace[m
+Author: solomon2123 <solomonkassahun121619@gmail.com>
+Date:   Sat Mar 7 18:40:38 2020 +0300
+
+     change the contact form to displayed in a table and two label in row
